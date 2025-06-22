@@ -1,0 +1,34 @@
+{
+  "reservations": [
+    {
+      "id": "R001",
+      "customerName": "Nguyễn Văn A",
+      "phoneNumber": "0901234567",
+      "tableId": "B01",
+      "numberOfGuests": 4,
+      "reservationTime": "2024-03-20T18:00:00Z",
+      "specialNotes": "Sinh nhật con trai",
+      "status": "confirmed"
+    },
+    {
+      "id": "R002",
+      "customerName": "Trần Thị B",
+      "phoneNumber": "0909876543",
+      "tableId": "VIP1",
+      "numberOfGuests": 8,
+      "reservationTime": "2024-03-21T19:00:00Z",
+      "specialNotes": "Khách dị ứng hải sản",
+      "status": "pending"
+    },
+    {
+      "id": "R003",
+      "customerName": "Lê Văn C",
+      "phoneNumber": "0905555555",
+      "tableId": "B03",
+      "numberOfGuests": 6,
+      "reservationTime": "2024-03-22T18:30:00Z",
+      "specialNotes": "",
+      "status": "confirmed"
+    }
+  ]
+} 

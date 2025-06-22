@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Món khai vị",
+      "items": [
+        {
+          "id": "AP01",
+          "name": "Gỏi cuốn tôm thịt",
+          "price": 55000,
+          "description": "Gỏi cuốn với tôm, thịt heo, rau sống và bún",
+          "image": "/images/menu/goi-cuon.jpg",
+          "status": "available"
+        },
+        {
+          "id": "AP02",
+          "name": "Chả giò hải sản",
+          "price": 65000,
+          "description": "Chả giò với nhân hải sản và rau củ",
+          "image": "/images/menu/cha-gio.jpg",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Món chính",
+      "items": [
+        {
+          "id": "M01",
+          "name": "Cơm chiên hải sản",
+          "price": 120000,
+          "description": "Cơm chiên với tôm, mực, và rau củ",
+          "image": "/images/menu/com-chien.jpg",
+          "status": "available"
+        },
+        {
+          "id": "M02",
+          "name": "Phở bò tái",
+          "price": 85000,
+          "description": "Phở với thịt bò tái và các loại rau thơm",
+          "image": "/images/menu/pho-bo.jpg",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Đồ uống",
+      "items": [
+        {
+          "id": "D01",
+          "name": "Nước ép cam",
+          "price": 45000,
+          "description": "Nước ép cam tươi",
+          "image": "/images/menu/nuoc-cam.jpg",
+          "status": "available"
+        },
+        {
+          "id": "D02",
+          "name": "Trà đào",
+          "price": 35000,
+          "description": "Trà đào với đào tươi và syrup",
+          "image": "/images/menu/tra-dao.jpg",
+          "status": "available"
+        }
+      ]
+    }
+  ]
+} 
